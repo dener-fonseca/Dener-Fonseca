@@ -90,11 +90,12 @@ Além do mundo da **tecnologia**, sou apaixonado por:
 
 ## 📬 Conecte-se Comigo
 
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/dener-fonseca)
-[![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/dener-fonseca)
-[![Outlook](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg)](mailto:darkx@hotmail.com.br)
-[![Discord](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg)](https://discordapp.com/users/denerfonseca1995)
-[![Pinterest](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pinterest/pinterest-original.svg)](https://www.pinterest.com/denerfonseca1995)
+[![LinkedIn](https://unpkg.com/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/dener-fonseca)
+[![GitHub](https://unpkg.com/simple-icons@v9/icons/github.svg)](https://github.com/dener-fonseca)
+[![Outlook](https://unpkg.com/simple-icons@v9/icons/microsoftoutlook.svg)](mailto:darkx@hotmail.com.br)
+[![Discord](https://unpkg.com/simple-icons@v9/icons/discord.svg)](https://discordapp.com/users/denerfonseca1995)
+[![Pinterest](https://unpkg.com/simple-icons@v9/icons/pinterest.svg)](https://www.pinterest.com/denerfonseca1995)
+
 </br>
 
 ## 📊 Estatísticas do meu Github
