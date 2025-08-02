@@ -90,40 +90,11 @@ Além do mundo da **tecnologia**, sou apaixonado por:
 
 ## 📬 Conecte-se Comigo
 
-<a href="https://www.linkedin.com/in/dener-fonseca" target="_blank" style="text-decoration:none; margin-right:8px;">
-  <span style="display:inline-flex; align-items:center; background-color:#0077B5; color:white; padding:6px 12px; border-radius:6px; font-family:sans-serif; font-size:14px;">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/svgs/brands/linkedin.svg" alt="LinkedIn" width="20" height="20" style="margin-right:8px;">
-    LinkedIn
-  </span>
-</a>
-
-<a href="https://github.com/dener-fonseca" target="_blank" style="text-decoration:none; margin-right:8px;">
-  <span style="display:inline-flex; align-items:center; background-color:#181717; color:white; padding:6px 12px; border-radius:6px; font-family:sans-serif; font-size:14px;">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/svgs/brands/github.svg" alt="GitHub" width="20" height="20" style="margin-right:8px;">
-    GitHub
-  </span>
-</a>
-
-<a href="mailto:darkx@hotmail.com.br" target="_blank" style="text-decoration:none; margin-right:8px;">
-  <span style="display:inline-flex; align-items:center; background-color:#0078D4; color:white; padding:6px 12px; border-radius:6px; font-family:sans-serif; font-size:14px;">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/svgs/brands/microsoft.svg" alt="Outlook" width="20" height="20" style="margin-right:8px;">
-    Outlook
-  </span>
-</a>
-
-<a href="https://discordapp.com/users/denerfonseca1995" target="_blank" style="text-decoration:none; margin-right:8px;">
-  <span style="display:inline-flex; align-items:center; background-color:#5865F2; color:white; padding:6px 12px; border-radius:6px; font-family:sans-serif; font-size:14px;">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/svgs/brands/discord.svg" alt="Discord" width="20" height="20" style="margin-right:8px;">
-    Discord
-  </span>
-</a>
-
-<a href="https://www.pinterest.com/denerfonseca1995" target="_blank" style="text-decoration:none; margin-right:8px;">
-  <span style="display:inline-flex; align-items:center; background-color:#E60023; color:white; padding:6px 12px; border-radius:6px; font-family:sans-serif; font-size:14px;">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/svgs/brands/pinterest.svg" alt="Pinterest" width="20" height="20" style="margin-right:8px;">
-    Pinterest
-  </span>
-</a>
+[![LinkedIn](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg)](https://www.linkedin.com/in/dener-fonseca)
+[![GitHub](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg)](https://github.com/dener-fonseca)
+[![Outlook](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftoutlook.svg)](mailto:darkx@hotmail.com.br)
+[![Discord](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg)](https://discordapp.com/users/denerfonseca1995)
+[![Pinterest](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pinterest.svg)](https://www.pinterest.com/denerfonseca1995)
 
 </br>
 
