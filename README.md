@@ -16,7 +16,7 @@ Sou estudante de Engenharia de Software com foco em **Desenvolvimento Full Stack
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=cs&logoColor=white"/>
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/Banco%20de%20Dados-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
 </div>
 
