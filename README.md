@@ -95,6 +95,7 @@ Além do mundo da **tecnologia**, sou apaixonado por:
 [![Outlook](https://cdn.simpleicons.org/microsoftoutlook/0078D4)](mailto:darkx@hotmail.com.br)
 [![Discord](https://cdn.simpleicons.org/discord/5865F2)](https://discordapp.com/users/denerfonseca1995)
 [![Pinterest](https://cdn.simpleicons.org/pinterest/E60023)](https://www.pinterest.com/denerfonseca1995)
+
 </br>
 
 ## 📊 Estatísticas do meu Github
