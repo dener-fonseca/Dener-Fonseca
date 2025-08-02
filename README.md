@@ -90,11 +90,11 @@ Além do mundo da **tecnologia**, sou apaixonado por:
 
 ## 📬 Conecte-se Comigo
 
-[![LinkedIn](https://cdn.simpleicons.org/linkedin/0077B5)](https://www.linkedin.com/in/dener-fonseca)
-[![GitHub](https://cdn.simpleicons.org/github/181717)](https://github.com/dener-fonseca)
-[![Outlook](https://cdn.simpleicons.org/microsoftoutlook/0078D4)](mailto:darkx@hotmail.com.br)
-[![Discord](https://cdn.simpleicons.org/discord/5865F2)](https://discordapp.com/users/denerfonseca1995)
-[![Pinterest](https://cdn.simpleicons.org/pinterest/E60023)](https://www.pinterest.com/denerfonseca1995)
+[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/dener-fonseca)
+[![GitHub](https://img.icons8.com/color/48/github--v1.png)](https://github.com/dener-fonseca)
+[![Outlook](https://img.icons8.com/color/48/microsoft-outlook-new.png)](mailto:darkx@hotmail.com.br)
+[![Discord](https://img.icons8.com/color/48/discord--v2.png)](https://discordapp.com/users/denerfonseca1995)
+[![Pinterest](https://img.icons8.com/color/48/pinterest--v1.png)](https://www.pinterest.com/denerfonseca1995)
 
 </br>
 
