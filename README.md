@@ -90,12 +90,11 @@ Além do mundo da **tecnologia**, sou apaixonado por:
 
 ## 📬 Conecte-se Comigo
 
-[![LinkedIn](https://unpkg.com/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/dener-fonseca)
-[![GitHub](https://unpkg.com/simple-icons@v9/icons/github.svg)](https://github.com/dener-fonseca)
-[![Outlook](https://unpkg.com/simple-icons@v9/icons/microsoftoutlook.svg)](mailto:darkx@hotmail.com.br)
-[![Discord](https://unpkg.com/simple-icons@v9/icons/discord.svg)](https://discordapp.com/users/denerfonseca1995)
-[![Pinterest](https://unpkg.com/simple-icons@v9/icons/pinterest.svg)](https://www.pinterest.com/denerfonseca1995)
-
+[![LinkedIn](https://cdn.simpleicons.org/linkedin/0077B5)](https://www.linkedin.com/in/dener-fonseca)
+[![GitHub](https://cdn.simpleicons.org/github/181717)](https://github.com/dener-fonseca)
+[![Outlook](https://cdn.simpleicons.org/microsoftoutlook/0078D4)](mailto:darkx@hotmail.com.br)
+[![Discord](https://cdn.simpleicons.org/discord/5865F2)](https://discordapp.com/users/denerfonseca1995)
+[![Pinterest](https://cdn.simpleicons.org/pinterest/E60023)](https://www.pinterest.com/denerfonseca1995)
 </br>
 
 ## 📊 Estatísticas do meu Github
