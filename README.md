@@ -90,11 +90,11 @@ Além do mundo da **tecnologia**, sou apaixonado por:
 
 ## 📬 Conecte-se Comigo
 
-[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/dener-fonseca)
-[![GitHub](https://img.icons8.com/color/48/github--v1.png)](https://github.com/dener-fonseca)
-[![Outlook](https://img.icons8.com/color/48/microsoft-outlook-new.png)](mailto:darkx@hotmail.com.br)
-[![Discord](https://img.icons8.com/color/48/discord--v2.png)](https://discordapp.com/users/denerfonseca1995)
-[![Pinterest](https://img.icons8.com/color/48/pinterest--v1.png)](https://www.pinterest.com/denerfonseca1995)
+[![LinkedIn][![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dener-fonseca)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dener-fonseca)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:darkx@hotmail.com.br)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/denerfonseca1995)
+[![Pinterest](https://img.shields.io/badge/-Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/denerfonseca1995)
 
 </br>
 
