@@ -5,7 +5,7 @@
 </br>
 
 ## 🧑‍💻 Sobre Mim
-Sou estudante de Engenharia de Software com foco em **Desenvolvimento Full Stack**, aprimorando minhas habilidades tanto em **Back-End** quanto em **Front-End**. Atualmente, possuo conhecimento e estou em constante aprendizado nas seguintes tecnologias:
+Sou estudante de **Engenharia de Software**, com foco em Desenvolvimento **Back-End**, mas possuo também conhecimento em **Front-End**. Atualmente, estou em constante aprendizado nas seguintes tecnologias:
 
 <div style="display: inline-block"><br/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
