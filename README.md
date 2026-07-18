@@ -5,6 +5,7 @@
 </br>
 
 ## 🧑‍💻 Sobre Mim
+
 Sou estudante de **Engenharia de Software**, com foco em Desenvolvimento **Back-End**, mas possuo também conhecimento em **Front-End**. Atualmente, estou em constante aprendizado nas seguintes tecnologias:
 
 <div style="display: inline-block"><br/>
@@ -26,6 +27,7 @@ Busco sempre aplicar meu aprendizado na construção de **projetos práticos** e
 <br/>
 
 ## 🌐 Idiomas
+
 Acredito que o **domínio de idiomas** amplia fronteiras, fortalece a comunicação e abre portas para oportunidades internacionais. Por isso, mantenho um foco constante no aperfeiçoamento linguístico, buscando fluência e aplicabilidade prática nas minhas áreas de atuação.
 
 <div align="left">
@@ -67,6 +69,7 @@ Acredito que o **domínio de idiomas** amplia fronteiras, fortalece a comunicaç
 <br/>
 
 ## 🔧 Experiência e Habilidades
+
 Antes de ingressar na tecnologia, atuei por **quatro anos como Mecânico Industrial**, onde desenvolvi as seguintes habilidades que são essenciais para minha jornada em tecnologia:
 
 - Capacidade analítica e resolução de problemas  
@@ -78,6 +81,7 @@ Essas habilidades têm sido fundamentais para minha transição para a **program
 <br/>
 
 ## ✨ Interesses
+
 Além do mundo da **tecnologia**, sou apaixonado por:
 
 - **História**
@@ -85,3 +89,13 @@ Além do mundo da **tecnologia**, sou apaixonado por:
 - **Literatura**
 - **Nutrição**
 - **Preservação ambiental**
+
+</br>
+
+## 📫 Vamos nos conectar?
+
+Acredito que o aprendizado é uma jornada contínua e que compartilhar conhecimento é uma das melhores formas de evoluir. Se você tiver sugestões, quiser trocar ideias sobre tecnologia ou acompanhar minha evolução, será um prazer conversar.
+
+Se algum dos meus projetos foi útil ou interessante para você, considere deixar uma **estrela** no repositório. Esse pequeno gesto incentiva meu desenvolvimento e a criação de novos projetos.
+
+Obrigado pela visita ao meu perfil e seja sempre bem-vindo!
