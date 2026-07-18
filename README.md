@@ -94,8 +94,6 @@ Além do mundo da **tecnologia**, sou apaixonado por:
 
 ## 📫 Vamos nos conectar?
 
-Acredito que o aprendizado é uma jornada contínua e que compartilhar conhecimento é uma das melhores formas de evoluir. Se você tiver sugestões, quiser trocar ideias sobre tecnologia ou acompanhar minha evolução, será um prazer conversar.
+Estou sempre aberto a trocar ideias, compartilhar conhecimento e aprender com a comunidade. Se quiser conversar sobre tecnologia ou acompanhar minha evolução, será um prazer ter você por aqui.
 
-Se algum dos meus projetos foi útil ou interessante para você, considere deixar uma **estrela** no repositório. Esse pequeno gesto incentiva meu desenvolvimento e a criação de novos projetos.
-
-Obrigado pela visita ao meu perfil e seja sempre bem-vindo!
+Se algum dos meus projetos foi útil ou despertou seu interesse, considere deixar uma **estrela** no repositório. Obrigado pela visita e por acompanhar minha jornada como desenvolvedor!
